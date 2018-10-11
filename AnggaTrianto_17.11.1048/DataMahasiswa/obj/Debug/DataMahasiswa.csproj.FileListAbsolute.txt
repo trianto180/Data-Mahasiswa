@@ -1,0 +1,20 @@
+C:\Users\anasl\source\repos\Data Mahasiswa\DataMahasiswa\bin\Debug\DataMahasiswa.exe.config
+C:\Users\anasl\source\repos\Data Mahasiswa\DataMahasiswa\bin\Debug\DataMahasiswa.exe
+C:\Users\anasl\source\repos\Data Mahasiswa\DataMahasiswa\bin\Debug\DataMahasiswa.pdb
+C:\Users\anasl\source\repos\Data Mahasiswa\DataMahasiswa\obj\Debug\DataMahasiswa.csprojAssemblyReference.cache
+C:\Users\anasl\source\repos\Data Mahasiswa\DataMahasiswa\obj\Debug\DataMahasiswa.Form1.resources
+C:\Users\anasl\source\repos\Data Mahasiswa\DataMahasiswa\obj\Debug\DataMahasiswa.Properties.Resources.resources
+C:\Users\anasl\source\repos\Data Mahasiswa\DataMahasiswa\obj\Debug\DataMahasiswa.csproj.GenerateResource.cache
+C:\Users\anasl\source\repos\Data Mahasiswa\DataMahasiswa\obj\Debug\DataMahasiswa.csproj.CoreCompileInputs.cache
+C:\Users\anasl\source\repos\Data Mahasiswa\DataMahasiswa\obj\Debug\DataMahasiswa.exe
+C:\Users\anasl\source\repos\Data Mahasiswa\DataMahasiswa\obj\Debug\DataMahasiswa.pdb
+E:\AMIKOM\1043\LeetDataMahasiswa-master\DataMahasiswa\bin\Debug\DataMahasiswa.exe.config
+E:\AMIKOM\1043\LeetDataMahasiswa-master\DataMahasiswa\bin\Debug\DataMahasiswa.exe
+E:\AMIKOM\1043\LeetDataMahasiswa-master\DataMahasiswa\bin\Debug\DataMahasiswa.pdb
+E:\AMIKOM\1043\LeetDataMahasiswa-master\DataMahasiswa\obj\Debug\DataMahasiswa.csprojAssemblyReference.cache
+E:\AMIKOM\1043\LeetDataMahasiswa-master\DataMahasiswa\obj\Debug\DataMahasiswa.Form1.resources
+E:\AMIKOM\1043\LeetDataMahasiswa-master\DataMahasiswa\obj\Debug\DataMahasiswa.Properties.Resources.resources
+E:\AMIKOM\1043\LeetDataMahasiswa-master\DataMahasiswa\obj\Debug\DataMahasiswa.csproj.GenerateResource.cache
+E:\AMIKOM\1043\LeetDataMahasiswa-master\DataMahasiswa\obj\Debug\DataMahasiswa.csproj.CoreCompileInputs.cache
+E:\AMIKOM\1043\LeetDataMahasiswa-master\DataMahasiswa\obj\Debug\DataMahasiswa.exe
+E:\AMIKOM\1043\LeetDataMahasiswa-master\DataMahasiswa\obj\Debug\DataMahasiswa.pdb
